@@ -1,9 +1,0 @@
-C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RandomDeath\RandomDeath\bin\Debug\net452\RandomDeath.dll
-C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RandomDeath\RandomDeath\bin\Debug\net452\RandomDeath.pdb
-C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RandomDeath\RandomDeath\obj\Debug\net452\RandomDeath.csproj.AssemblyReference.cache
-C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RandomDeath\RandomDeath\obj\Debug\net452\RandomDeath.GeneratedMSBuildEditorConfig.editorconfig
-C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RandomDeath\RandomDeath\obj\Debug\net452\RandomDeath.AssemblyInfoInputs.cache
-C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RandomDeath\RandomDeath\obj\Debug\net452\RandomDeath.AssemblyInfo.cs
-C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RandomDeath\RandomDeath\obj\Debug\net452\RandomDeath.csproj.CoreCompileInputs.cache
-C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RandomDeath\RandomDeath\obj\Debug\net452\RandomDeath.dll
-C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\RandomDeath\RandomDeath\obj\Debug\net452\RandomDeath.pdb

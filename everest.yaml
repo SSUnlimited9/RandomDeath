@@ -1,0 +1,6 @@
+﻿- Name: RandomDeath
+  Version: 1.0.0
+  DLL: RandomDeath/bin/Debug/net452/RandomDeath.dll
+  Dependencies:
+    - Name: Everest
+      Version: 1.3000.0
