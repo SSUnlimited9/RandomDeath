@@ -50,8 +50,8 @@ namespace SSUnlimited.RandomDeath
 				switch (Settings.Randomness)
 				{
 					case RandomDeathSettings.DeathRandomness.ExtremelyRare:
-						num = Calc.Random.Next(0, 10000000);
-						num2 = Calc.Random.Next(0, 11000000);
+						num = Calc.Random.Next(0, 100000);
+						num2 = Calc.Random.Next(0, 101000);
 
 						if (num == num2)
 						{
@@ -60,8 +60,8 @@ namespace SSUnlimited.RandomDeath
 						break;
 
 					case RandomDeathSettings.DeathRandomness.Rare:
-						num = Calc.Random.Next(0, 50000);
-						num2 = Calc.Random.Next(0, 52500);
+						num = Calc.Random.Next(0, 35000);
+						num2 = Calc.Random.Next(0, 35250);
 
 						if (num == num2)
 						{
@@ -71,8 +71,8 @@ namespace SSUnlimited.RandomDeath
 
 					default:
 					case RandomDeathSettings.DeathRandomness.Normal:
-						num = Calc.Random.Next(0, 17500);
-						num2 = Calc.Random.Next(0, 17525);
+						num = Calc.Random.Next(0, 15000);
+						num2 = Calc.Random.Next(0, 15250);
 
 						if (num == num2)
 						{
@@ -81,8 +81,8 @@ namespace SSUnlimited.RandomDeath
 						break;
 					
 					case RandomDeathSettings.DeathRandomness.SemiCommon:
-						num = Calc.Random.Next(0, 10000);
-						num2 = Calc.Random.Next(0, 10500);
+						num = Calc.Random.Next(0, 4500);
+						num2 = Calc.Random.Next(0, 4525);
 
 						if (num == num2)
 						{
@@ -91,8 +91,8 @@ namespace SSUnlimited.RandomDeath
 						break;
 
 					case RandomDeathSettings.DeathRandomness.MoreCommon:
-						num = Calc.Random.Next(0, 1000);
-						num2 = Calc.Random.Next(0, 1050);
+						num = Calc.Random.Next(0, 2000);
+						num2 = Calc.Random.Next(0, 2050);
 
 						if (num == num2)
 						{
