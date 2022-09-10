@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jgvI9HDe9EKQGiBVt6Y+GEpkaLcPkkt4uD9VT5lCEWP+VY3gtiFHEOpWi6e6YLWMOviuCUM2jJk5uL6z2eUm2A==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Celeste\\Mods\\RandomDeath\\RandomDeath\\RandomDeath.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CFS\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\CFS\\.nuget\\packages\\monomod\\21.8.19.1\\monomod.21.8.19.1.nupkg.sha512",
+    "C:\\Users\\CFS\\.nuget\\packages\\monomod.runtimedetour\\21.8.19.1\\monomod.runtimedetour.21.8.19.1.nupkg.sha512",
+    "C:\\Users\\CFS\\.nuget\\packages\\monomod.utils\\21.8.19.1\\monomod.utils.21.8.19.1.nupkg.sha512"
+  ],
+  "logs": []
+}
